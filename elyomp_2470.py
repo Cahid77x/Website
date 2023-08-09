@@ -12,7 +12,7 @@ def funk(x):
             if x[z][j]==x[j][z]:
                 d+=1
                 if z == j and x[z][j]==1:             
-                    return "NO
+                    return "NO"
             else:
                 continue
             
